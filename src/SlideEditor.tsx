@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { Excalidraw } from "@excalidraw/excalidraw";
-import "@excalidraw/excalidraw/index.css";
 import { Slide } from "./types";
 
 export interface Props {
