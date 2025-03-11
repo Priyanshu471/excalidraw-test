@@ -10,14 +10,15 @@
   "dependencies": {
     "@excalidraw/excalidraw": "^0.17.6",
     "normalize.css": "^8.0.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "",
+    "react-dom": ""
   },
   "devDependencies": {
     "@parcel/source-map": "^2.1.1",
-    "@types/react": "^19.0.0",
-    "@types/react-dom": "^19.0.0",
-    "parcel": "^2.0.0-beta.1",
+    "@types/react": "",
+    "@types/react-dom": "",
+    "buffer": "^6.0.3",
+    "parcel": "",
     "typescript": "^4.0.5"
   }
 }
