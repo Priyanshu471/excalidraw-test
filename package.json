@@ -1,0 +1,23 @@
+{
+  "name": "excalidraw-slides",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "build": "parcel build public/index.html"
+  },
+  "dependencies": {
+    "@excalidraw/excalidraw": "^0.17.6",
+    "normalize.css": "^8.0.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@parcel/source-map": "^2.1.1",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "parcel": "^2.0.0-beta.1",
+    "typescript": "^4.0.5"
+  }
+}
